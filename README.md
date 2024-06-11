@@ -14,7 +14,7 @@ This project demonstrates how to manage user data using local storage in a web a
 
 1. **Clone the repository:**
     ```sh
-    git clone echo "https://github.com/ravi0js/card_local_storage.git"
+    git clone echo "https://github.com/kishlaychandan/card-local-storage"
     ```
 
 2. **Navigate to the project directory:**
@@ -53,5 +53,5 @@ You can modify the styles in the `style.css` file to match your design preferenc
 
 ## Contact
 
-For questions or suggestions, please contact [ravi194455@example.com].
+For questions or suggestions, please contact [kishlaychandan00@gmail.com].
 # card_local_storage
